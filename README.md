@@ -1,4 +1,4 @@
 # pair-notes
 
 Leaning sprints
-Favourite food: Chapo beans
+Favourite food: ugali and chicken
