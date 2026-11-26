@@ -5,5 +5,5 @@ Favourite food: Ugali beef stew
 Favourite food: ugali and chicken
 Favourite food: Rice beans
 
-Favourite hobby: football
+Favourite hobby: Football
 
