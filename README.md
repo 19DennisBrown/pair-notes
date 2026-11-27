@@ -8,4 +8,4 @@ Favourite food: Rice beans
 Favourite hobby: Football
 
 Rule test
-Favourite place: Nairobi
+Favourite place: Kisumu
